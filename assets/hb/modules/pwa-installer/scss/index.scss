@@ -1,0 +1,8 @@
+#pwa-installer {
+  z-index: 1030;
+  transition: opacity 1.5s ease-in-out;
+
+  &.dismissing {
+    opacity: 0;
+  }
+}

@@ -1,0 +1,12 @@
+[[module.imports]]
+path = "github.com/hbstack/hb"
+
+[[module.imports]]
+path = "github.com/hbstack/pwa"
+
+[params.hb.pwa_installer]
+delay = 5 # delay in seconds before hiding the button.
+dismissed_period = 604800 # dismissed period in seconds.
+
+[params.hugopress.modules.hb-pwa-installer.hooks.body-end]
+cacheable = true
