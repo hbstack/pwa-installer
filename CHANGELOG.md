@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/hbstack/pwa-installer/compare/v0.2.0...v0.3.0) (2025-01-20)
+
+
+### Features ✨
+
+* **i18n:** create ms.toml ([#51](https://github.com/hbstack/pwa-installer/issues/51)) ([d86c044](https://github.com/hbstack/pwa-installer/commit/d86c044bd8e41346ddb9c4f043e301736f3f4930))
+
 ## [0.2.0](https://github.com/hbstack/pwa-installer/compare/v0.1.0...v0.2.0) (2024-05-28)
 
 
